@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Talha!](https://www.linkedin.com/in/fasih-mehmood/)
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Fasih!](https://www.linkedin.com/in/fasih-mehmood/)
 
 - ⚡ I'm a Google Developer Student Club Mentor for UET Taxila
 - 🔭 I'm currently working on Frontend Web Development
